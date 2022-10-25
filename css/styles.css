@@ -1,0 +1,75 @@
+body {
+    background-color: #06283D;
+    color: #DFF6FF;
+    text-align: center;
+    margin: 0 0 0 0;
+    font-family: arial;
+
+}
+
+h1 {
+    font-style:normal;
+    text-decoration: underline;
+
+}
+
+.main {
+    background-color: #256D85;
+    color: #DFF6FF;
+    padding: 100px 0 100px 0px;
+}
+
+.nav {
+    background-color: #47B5FF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+hr {
+    border-style: none;
+    border-top-style : dotted;
+    border-color: rgb(206, 216, 221);
+    border-width: 5px;
+    width: 5%;
+}
+
+.image {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.link {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.hobbies {
+    margin-top: 50px;
+}
+
+.floatLeft {
+    float: left;
+    width: 45%;
+    border:2.5px solid #DFF6FF;
+    padding:15px;
+    background-color: #256D85;
+    
+}
+
+.floatRight {
+    float: right;
+    width: 45%;
+    border:2.5px solid #DFF6FF;
+    padding:15px;
+    background-color: #256D85;
+   
+}
+
+.movieDiv {
+    
+    text-align: left;
+    text-decoration: solid;
+    line-height: 1.4; 
+    padding: 60px;
+ 
+}
