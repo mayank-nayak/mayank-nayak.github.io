@@ -73,3 +73,11 @@ hr {
     padding: 60px;
  
 }
+
+.hobbieDiv {
+    margin: 20px;
+    padding:15px;
+    border: 2.5px solid #DFF6FF;
+    background-color: #256d85;
+    width: 60%;
+}
